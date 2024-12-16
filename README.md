@@ -1,7 +1,7 @@
 <h1>ISSP</span></h1>
 
 A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Implicit State-State Planning".
-----
+
 
 ## Evaluation Video
 
@@ -11,7 +11,9 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 <img src="Videos/walker2d-random-v2.gif" width="16%"><img src="Videos/walker2d-medium-v2.gif" width="16%"><img src="Videos/walker2d-medium-replay-v2.gif" width="16%"><img src="Videos/walker2d-medium-expert-v2.gif" width="16%"><img src="Videos/walker2d-expert-v2.gif" width="16%">
 
-<img src="Videos/antmaze-umaze-v2.gif" width="16%"><img src="Videos/antmaze-umaze-diverse-v2.gif" width="16%"><img src="Videos/antmaze-medium-play-v2.gif" width="16%"><img src="Videos/antmaze-medium-diverse-v2.gif" width="16%"><img src="Videos/antmaze-large-play-v2.gif" width="16%"><img src="Videos/antmaze-large-diverse-v2.gif" width="16%">
+<img src="Videos/antmaze-umaze-v2.gif" width="16%"><img src="Videos/antmaze-umaze-diverse-v2.gif" width="16%"><img src="Videos/antmaze-medium-play-v2.gif" width="16%"><img src="Videos/antmaze-medium-diverse-v2.gif" width="16%">
+
+<img src="Videos/antmaze-large-play-v2.gif" width="16%"><img src="Videos/antmaze-large-diverse-v2.gif" width="16%">
 
 ----
 
