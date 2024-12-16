@@ -5,28 +5,29 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 ## Evaluation Video
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="text-align: center;">
-    <img src="Videos/halfcheetah-random-v2.gif" width="16%">
+<div style="display: flex; gap: 10px;">
+  <div style="text-align: center; flex: 1 1 16%;">
+    <img src="Videos/halfcheetah-random-v2.gif" width="100%">
     <p>Halfcheetah Random</p>
   </div>
-  <div style="text-align: center;">
-    <img src="Videos/halfcheetah-medium-v2.gif" width="16%">
+  <div style="text-align: center; flex: 1 1 16%;">
+    <img src="Videos/halfcheetah-medium-v2.gif" width="100%">
     <p>Halfcheetah Medium</p>
   </div>
-  <div style="text-align: center;">
-    <img src="Videos/halfcheetah-medium-replay-v2.gif" width="16%">
+  <div style="text-align: center; flex: 1 1 16%;">
+    <img src="Videos/halfcheetah-medium-replay-v2.gif" width="100%">
     <p>Halfcheetah Medium Replay</p>
   </div>
-  <div style="text-align: center;">
-    <img src="Videos/halfcheetah-medium-expert-v2.gif" width="16%">
+  <div style="text-align: center; flex: 1 1 16%;">
+    <img src="Videos/halfcheetah-medium-expert-v2.gif" width="100%">
     <p>Halfcheetah Medium Expert</p>
   </div>
-  <div style="text-align: center;">
-    <img src="Videos/halfcheetah-expert-v2.gif" width="16%">
+  <div style="text-align: center; flex: 1 1 16%;">
+    <img src="Videos/halfcheetah-expert-v2.gif" width="100%">
     <p>Halfcheetah Expert</p>
   </div>
 </div>
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center;">
@@ -115,9 +116,13 @@ We provide examples on how to train and evaluate ISSP agents.
 ### Preparing
 
 PyTorch == 1.10
+
 MuJoCo == 2.00
+
 mujoco-py == 2.0.2.8
+
 gym == 0.20
+
 d4rl == 1.1
 
 ### Training
