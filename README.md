@@ -14,10 +14,10 @@ From left to right: `hopper-random-v2`,   `hopper-medium-v2`,   `hopper-medium-r
 <img src="Videos/walker2d-random-v2.gif" width="19.5%">  <img src="Videos/walker2d-medium-v2.gif" width="19.5%">  <img src="Videos/walker2d-medium-replay-v2.gif" width="19.5%">  <img src="Videos/walker2d-medium-expert-v2.gif" width="19.5%">  <img src="Videos/walker2d-expert-v2.gif" width="19.5%">
 From left to right: `walker2d-random-v2`,   `walker2d-medium-v2`,   `walker2d-medium-replay-v2`,   `walker2d-medium-expert-v2`,   `walker2d-expert-v2`
 
-<img src="Videos/antmaze-umaze-v2.gif" width="19.5%">  <img src="Videos/antmaze-umaze-diverse-v2.gif" width="19.5%">  <img src="Videos/antmaze-medium-play-v2.gif" width="19.5%">  <img src="Videos/antmaze-medium-diverse-v2.gif" width="19.5%">
+<img src="Videos/antmaze-umaze-v2.gif" width="19.5%">  <img src="Videos/antmaze-umaze-diverse-v2.gif" width="19.5%">  <img src="Videos/antmaze-medium-play-v2.gif" width="19.5%">  <img src="Videos/antmaze-medium-diverse-v2.gif" width="19.5%">  
 From left to right:  `antmaze-umaze-v2`, `antmaze-umaze-diverse-v2`, `antmaze-medium-play-v2`, `antmaze-medium-diverse-v2`
 
-  <img src="Videos/antmaze-large-play-v2.gif" width="19.5%"> <img src="Videos/antmaze-large-diverse-v2.gif" width="19.5%">
+<img src="Videos/antmaze-large-play-v2.gif" width="19.5%"> <img src="Videos/antmaze-large-diverse-v2.gif" width="19.5%">  
 From left to right:  `antmaze-large-play-v2`, `antmaze-large-diverse-v2`
 
 ----
