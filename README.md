@@ -128,4 +128,4 @@ See below examples on how to train OBAC on a single task (e.g. antmaze-large-div
 ```python
 python main.py --env antmaze-large-diverse-v2
 ```
-We recommend using default hyperparameters. See `main.py` for a full list of arguments.
+We recommend using default hyperparameters. See `main.py` for a full list of hyperparameters.
