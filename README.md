@@ -7,23 +7,23 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center;">
-    <img src="Videos/halfcheetah-random-v2.gif" width="16%">
+    <img src="Videos/halfcheetah-random-v2.gif" width="20%">
     <p>Halfcheetah Random</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/halfcheetah-medium-v2.gif" width="16%">
+    <img src="Videos/halfcheetah-medium-v2.gif" width="20%">
     <p>Halfcheetah Medium</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/halfcheetah-medium-replay-v2.gif" width="16%">
+    <img src="Videos/halfcheetah-medium-replay-v2.gif" width="20%">
     <p>Halfcheetah Medium Replay</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/halfcheetah-medium-expert-v2.gif" width="16%">
+    <img src="Videos/halfcheetah-medium-expert-v2.gif" width="20%">
     <p>Halfcheetah Medium Expert</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/halfcheetah-expert-v2.gif" width="16%">
+    <img src="Videos/halfcheetah-expert-v2.gif" width="20%">
     <p>Halfcheetah Expert</p>
   </div>
 </div>
@@ -31,76 +31,76 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center;">
-    <img src="Videos/hopper-random-v2.gif" width="16%">
+    <img src="Videos/hopper-random-v2.gif" width="20%">
     <p>Hopper Random</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/hopper-medium-v2.gif" width="16%">
+    <img src="Videos/hopper-medium-v2.gif" width="20%">
     <p>Hopper Medium</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/hopper-medium-replay-v2.gif" width="16%">
+    <img src="Videos/hopper-medium-replay-v2.gif" width="20%">
     <p>Hopper Medium Replay</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/hopper-medium-expert-v2.gif" width="16%">
+    <img src="Videos/hopper-medium-expert-v2.gif" width="20%">
     <p>Hopper Medium Expert</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/hopper-expert-v2.gif" width="16%">
+    <img src="Videos/hopper-expert-v2.gif" width="20%">
     <p>Hopper Expert</p>
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center;">
-    <img src="Videos/walker2d-random-v2.gif" width="16%">
+    <img src="Videos/walker2d-random-v2.gif" width="20%">
     <p>Walker2d Random</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/walker2d-medium-v2.gif" width="16%">
+    <img src="Videos/walker2d-medium-v2.gif" width="20%">
     <p>Walker2d Medium</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/walker2d-medium-replay-v2.gif" width="16%">
+    <img src="Videos/walker2d-medium-replay-v2.gif" width="20%">
     <p>Walker2d Medium Replay</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/walker2d-medium-expert-v2.gif" width="16%">
+    <img src="Videos/walker2d-medium-expert-v2.gif" width="20%">
     <p>Walker2d Medium Expert</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/walker2d-expert-v2.gif" width="16%">
+    <img src="Videos/walker2d-expert-v2.gif" width="20%">
     <p>Walker2d Expert</p>
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center;">
-    <img src="Videos/antmaze-umaze-v2.gif" width="16%">
+    <img src="Videos/antmaze-umaze-v2.gif" width="20%">
     <p>AntMaze Umaze</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/antmaze-umaze-diverse-v2.gif" width="16%">
+    <img src="Videos/antmaze-umaze-diverse-v2.gif" width="20%">
     <p>AntMaze Umaze Diverse</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/antmaze-medium-play-v2.gif" width="16%">
+    <img src="Videos/antmaze-medium-play-v2.gif" width="20%">
     <p>AntMaze Medium Play</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/antmaze-medium-diverse-v2.gif" width="16%">
+    <img src="Videos/antmaze-medium-diverse-v2.gif" width="20%">
     <p>AntMaze Medium Diverse</p>
   </div>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <div style="text-align: center;">
-    <img src="Videos/antmaze-large-play-v2.gif" width="16%">
+    <img src="Videos/antmaze-large-play-v2.gif" width="20%">
     <p>AntMaze Large Play</p>
   </div>
   <div style="text-align: center;">
-    <img src="Videos/antmaze-large-diverse-v2.gif" width="16%">
+    <img src="Videos/antmaze-large-diverse-v2.gif" width="20%">
     <p>AntMaze Large Diverse</p>
   </div>
 </div>
