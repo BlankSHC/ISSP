@@ -115,14 +115,10 @@ We provide examples on how to train and evaluate ISSP agents.
 
 ### Preparing
 
-PyTorch == 1.10
-
-MuJoCo == 2.00
-
-mujoco-py == 2.0.2.8
-
-gym == 0.20
-
+PyTorch == 1.10 < br >
+MuJoCo == 2.00 < br >
+mujoco-py == 2.0.2.8 < br >
+gym == 0.20 < br >
 d4rl == 1.1
 
 ### Training
