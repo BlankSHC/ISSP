@@ -5,6 +5,29 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 ## Evaluation Video
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <div style="text-align: center;">
+        <img src="Videos/halfcheetah-random-v2.gif" width="20%">
+        <p>halfcheetah-random-v2</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="Videos/halfcheetah-medium-v2.gif" width="20%">
+        <p>halfcheetah-medium-v2</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="Videos/halfcheetah-medium-replay-v2.gif" width="20%">
+        <p>halfcheetah-medium-replay-v2</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="Videos/halfcheetah-medium-expert-v2.gif" width="20%">
+        <p>halfcheetah-medium-expert-v2</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="Videos/halfcheetah-expert-v2.gif" width="20%">
+        <p>halfcheetah-expert-v2</p>
+    </div>
+</div>
+
  <img src="Videos/halfcheetah-random-v2.gif" width="20%"><p>halfcheetah-random-v2</p>
  <img src="Videos/halfcheetah-medium-v2.gif" width="20%"><p>halfcheetah-medium-v2</p>
  <img src="Videos/halfcheetah-medium-replay-v2.gif" width="20%"><p>halfcheetah-medium-replay-v2</p>
