@@ -111,7 +111,7 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 ## Getting started
 
-We provide examples on how to train and evaluate ISSP agents. 
+We provide requirements and examples on how to train and evaluate ISSP agents. 
 
 ### Preparing
 
