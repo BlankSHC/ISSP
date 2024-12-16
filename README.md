@@ -5,28 +5,29 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 ## Evaluation Video
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
-    <div style="text-align: center;">
-        <img src="Videos/halfcheetah-random-v2.gif" width="20%">
+<div style="text-align: center;">
+    <span style="display: inline-block; width: 20%; text-align: center;">
+        <img src="Videos/halfcheetah-random-v2.gif" width="100%">
         <p>halfcheetah-random-v2</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="Videos/halfcheetah-medium-v2.gif" width="20%">
+    </span>
+    <span style="display: inline-block; width: 20%; text-align: center;">
+        <img src="Videos/halfcheetah-medium-v2.gif" width="100%">
         <p>halfcheetah-medium-v2</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="Videos/halfcheetah-medium-replay-v2.gif" width="20%">
+    </span>
+    <span style="display: inline-block; width: 20%; text-align: center;">
+        <img src="Videos/halfcheetah-medium-replay-v2.gif" width="100%">
         <p>halfcheetah-medium-replay-v2</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="Videos/halfcheetah-medium-expert-v2.gif" width="20%">
+    </span>
+    <span style="display: inline-block; width: 20%; text-align: center;">
+        <img src="Videos/halfcheetah-medium-expert-v2.gif" width="100%">
         <p>halfcheetah-medium-expert-v2</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="Videos/halfcheetah-expert-v2.gif" width="20%">
+    </span>
+    <span style="display: inline-block; width: 20%; text-align: center;">
+        <img src="Videos/halfcheetah-expert-v2.gif" width="100%">
         <p>halfcheetah-expert-v2</p>
-    </div>
+    </span>
 </div>
+
 
 
  <img src="Videos/halfcheetah-random-v2.gif" width="20%"><p>halfcheetah-random-v2</p>
