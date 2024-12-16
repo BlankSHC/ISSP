@@ -7,10 +7,7 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center;">
-    <img src="Videos/halfcheetah-random-v2.gif" width="20%">
-    <p>halfcheetah-random-v2</p>
-    <img src="Videos/halfcheetah-medium-v2.gif" width="20%">
-    <p>halfcheetah-medium-v2</p>
+    <img src="Videos/halfcheetah-random-v2.gif" width="20%"><p>halfcheetah-random-v2</p><img src="Videos/halfcheetah-medium-v2.gif" width="20%"><p>halfcheetah-medium-v2</p>
     <img src="Videos/halfcheetah-medium-replay-v2.gif" width="20%">
     <p>halfcheetah-medium-replay-v2</p>
     <img src="Videos/halfcheetah-medium-expert-v2.gif" width="20%">
