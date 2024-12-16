@@ -6,7 +6,7 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
 ## Evaluation Video
 
  <img src="Videos/halfcheetah-random-v2.gif" width="19.5%">   <img src="Videos/halfcheetah-medium-v2.gif" width="19.5%">   <img src="Videos/halfcheetah-medium-replay-v2.gif" width="19.5%">   <img src="Videos/halfcheetah-medium-expert-v2.gif" width="19.5%">   <img src="Videos/halfcheetah-expert-v2.gif" width="19.5%">
- <p>halfcheetah-random-v2, halfcheetah-medium-v2, halfcheetah-medium-replay-v2, halfcheetah-medium-expert-v2, halfcheetah-expert-v2</p>
+ <p>halfcheetah-random-v2   halfcheetah-medium-v2   halfcheetah-medium-replay-v2   halfcheetah-medium-expert-v2   halfcheetah-expert-v2</p>
 
   <img src="Videos/hopper-random-v2.gif" width="19.5%"><p>hopper-random-v2</p><img src="Videos/hopper-medium-v2.gif" width="19.5%"><p>hopper-medium-v2.gif</p>
   <img src="Videos/hopper-medium-replay-v2.gif" width="19.5%"><p>hopper-medium-replay-v2</p>
