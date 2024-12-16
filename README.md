@@ -8,8 +8,7 @@ A PyTorch implementation of "Rethinking Offline Reinforcement Learning with Impl
  <img src="Videos/halfcheetah-random-v2.gif" width="18%">  <img src="Videos/halfcheetah-medium-v2.gif" width="18%">  <img src="Videos/halfcheetah-medium-replay-v2.gif" width="18%">  <img src="Videos/halfcheetah-medium-expert-v2.gif" width="18%">  <img src="Videos/halfcheetah-expert-v2.gif" width="18%">
  <p>halfcheetah-random-v2, halfcheetah-medium-v2, halfcheetah-medium-replay-v2, halfcheetah-medium-expert-v2, halfcheetah-expert-v2</p>
 
-  <img src="Videos/hopper-random-v2.gif" width="18%"><p>hopper-random-v2</p>
-  <img src="Videos/hopper-medium-v2.gif" width="18%"><p>hopper-medium-v2.gif</p>
+  <img src="Videos/hopper-random-v2.gif" width="18%"><p>hopper-random-v2</p><img src="Videos/hopper-medium-v2.gif" width="18%"><p>hopper-medium-v2.gif</p>
   <img src="Videos/hopper-medium-replay-v2.gif" width="18%"><p>hopper-medium-replay-v2</p>
   <img src="Videos/hopper-medium-expert-v2.gif" width="18%"><p>hopper-medium-expert-v2</p>
   <img src="Videos/hopper-expert-v2.gif" width="18%"><p>hopper-expert-v2</p>
