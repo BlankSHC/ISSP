@@ -36,7 +36,7 @@ d4rl == 1.1
 
 ### Training and evaluating
 
-See below examples on how to train ISSP on a single task (e.g. antmaze-large-diverse-v2).
+See below examples on how to train and evaluate ISSP on a single task (e.g. antmaze-large-diverse-v2).
 
 ```python
 python main.py --env antmaze-large-diverse-v2
