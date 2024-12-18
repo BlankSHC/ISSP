@@ -34,9 +34,9 @@ MuJoCo == 2.00
 mujoco-py == 2.0.2.8  
 d4rl == 1.1
 
-### Training
+### Training and evaluating
 
-See below examples on how to train OBAC on a single task (e.g. antmaze-large-diverse-v2).
+See below examples on how to train ISSP on a single task (e.g. antmaze-large-diverse-v2).
 
 ```python
 python main.py --env antmaze-large-diverse-v2
